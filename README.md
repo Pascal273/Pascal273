@@ -1,4 +1,4 @@
-# H1 👋 Hi there,
+👋 Hi there,
 ---
 I’m Pascal, a Python Backend Developer who recently finished my studies in Back-End Development with Python as the focus.
 
