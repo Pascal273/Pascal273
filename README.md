@@ -2,14 +2,14 @@
 ---
 I’m Pascal, a Python Backend Developer who recently finished my studies in Back-End Development with Python as the focus.
 
-Skills # H2
+##Skills
 
   PYTHON, DJANGO, FLASK, FASTAPI, SQL, PYTEST, CIRCLE-CI/CD, DOCKER, HEROKU, SENTRY, JAVASCRIPT, HTML/CSS, BOOTSTRAP, SASS/SCSS
 
 
 
 
-📫 How to reach me # H2
+##📫 How to reach me # H2
 
   [LinkedIn](https://www.linkedin.com/in/pascal-hinze-b59530256/)
 
