@@ -1,6 +1,5 @@
 👋 Hi,
-___
-
+---
 I’m Pascal, a Python Backend Developer
 - 👀 I’m interested in uprading my coding skills
 - 🌱 I’m currently learning Python
