@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pascal273
+- 👋 Hi, I’m Pascal Hinze
 - 👀 I’m interested in uprading my coding skills
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
