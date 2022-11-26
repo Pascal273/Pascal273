@@ -15,7 +15,7 @@ The diploma is Level 6 on the European Qualifications Framework (EQF) (Bachelors
 
 ## 📫 How to reach me
 
-  [LinkedIn](https://www.linkedin.com/in/pascal-hinze-b59530256/)
+  [LinkedIn](https://www.linkedin.com/in/pascal-hinze)
 
 <!---
 Pascal273/Pascal273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
